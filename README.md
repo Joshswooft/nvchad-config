@@ -1,6 +1,6 @@
-This file is where you customise your config.
+This `custom` directory sits inside the NvChad config.
 
-Nvchad will not overwrite anything in the `lua/custom` dir as it's gitignored.
+Nvchad will not overwrite anything in the `~/.config/lua/custom` dir as it's gitignored.
 
 `custom/init.lua` gets loaded at the end in the main init.lua file, add your commands,options, autocmds here etc
 
