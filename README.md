@@ -1,6 +1,6 @@
 # NvChad custom config
 
-This `custom` directory sits inside the NvChad config.
+Clone this repo into your `~/.config/lua` folder and rename it to `custom`.
 
 Nvchad will not overwrite anything in the `~/.config/lua/custom` dir as it's gitignored.
 
