@@ -9,3 +9,12 @@ Nvchad will not overwrite anything in the `~/.config/lua/custom` dir as it's git
 `custom/chadrc.lua` is used to override core/default_config.lua and basically control all of NvChad; you have to maintain the table structure of `default_config.lua`
 
 Adding new packages is as simple as modifying the `plugins/init.lua` file and adding your package. Afterwards boot up nvim and do a `:PackerSync` command.
+
+
+## Libraries
+
+To make sure everything works as expected, install the following libraries.
+
+
+- [LazyGit](https://github.com/jesseduffield/lazygit)
+
